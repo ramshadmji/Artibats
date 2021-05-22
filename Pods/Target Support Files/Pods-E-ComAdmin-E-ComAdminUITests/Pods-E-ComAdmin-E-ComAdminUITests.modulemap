@@ -1,0 +1,6 @@
+framework module Pods_E_ComAdmin_E_ComAdminUITests {
+  umbrella header "Pods-E-ComAdmin-E-ComAdminUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
